@@ -1,4 +1,4 @@
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://mentor-connect-frontend-teal.vercel.app/api';
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://mentorconnect-backend-9wve.onrender.com/api';
 
 
 // Helper function to get auth headers
